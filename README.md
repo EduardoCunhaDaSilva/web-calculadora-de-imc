@@ -3,21 +3,24 @@
 ![Preview do projeto](screenshot.png)
 
 🧮 Calculadora de IMC
-Uma calculadora simples e responsiva feita com HTML e CSS, que permite ao usuário descobrir seu Índice de Massa Corporal (IMC) com base na altura e peso informados.
+Ferramenta simples e responsiva que calcula o Índice de Massa Corporal a partir da altura e do peso informados.
 
-✅ Funcionalidades
-Interface limpa e moderna
+✅ O que ela faz
 
-Totalmente responsiva (funciona bem no celular e no desktop)
+Interface objetiva e fácil de usar
 
-Exibe o valor do IMC e a classificação correspondente
+Funciona bem em qualquer tela
 
-📌 Tecnologias utilizadas
+Mostra o IMC e a categoria correspondente
 
--HTML5
--CSS3 (com Flexbox e Media Queries)
--Git para versionamento do projeto
--JavaScript para a logica da calculadora de IMC
+📌 Tecnologias
 
-🔗 Acesse aqui
-Ver página no GitHub Pages:
+HTML5
+
+CSS3 (Flexbox + Media Queries)
+
+JavaScript para a lógica
+
+Git para versionamento
+
+Link da pagina: https://eduardocunhadasilva.github.io/web-calculadora-de-imc/
