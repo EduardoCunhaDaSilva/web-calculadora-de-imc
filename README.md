@@ -2,7 +2,7 @@
 
 ![Preview do projeto](screenshot.png)
 
-🧮 Calculadora de IMC
+##🧮 Calculadora de IMC
 Ferramenta simples e responsiva que calcula o Índice de Massa Corporal a partir da altura e do peso informados.
 
 ✅ O que ela faz
