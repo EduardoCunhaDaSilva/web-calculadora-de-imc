@@ -7,20 +7,20 @@ Ferramenta simples e responsiva que calcula o Índice de Massa Corporal a partir
 
 ## ✅ O que ela faz
 
-Interface objetiva e fácil de usar
+* Interface objetiva e fácil de usar
 
-Funciona bem em qualquer tela
+* Funciona bem em qualquer tela
 
-Mostra o IMC e a categoria correspondente
+* Mostra o IMC e a categoria correspondente
 
 ## 📌 Tecnologias
 
-HTML5
+* HTML5
 
-CSS3 (Flexbox + Media Queries)
+* CSS3 (Flexbox + Media Queries)
 
-JavaScript para a lógica
+* JavaScript para a lógica
 
-Git para versionamento
+* Git para versionamento
 
 ## Link da pagina: https://eduardocunhadasilva.github.io/web-calculadora-de-imc/
